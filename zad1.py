@@ -5,7 +5,8 @@ Komentarz
 """
 
 def nowa(a,b):
-    return a+b
+    return a-b
+
 
 def counter(b,e):
     while b < e:
