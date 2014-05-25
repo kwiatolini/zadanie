@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # encoding: utf-8
+"""
+Komentarz
+"""
 
 def counter(b,e):
     while b < e:
